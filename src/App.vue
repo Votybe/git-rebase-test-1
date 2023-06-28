@@ -4,6 +4,7 @@
   <p>x</p>
   <p>y</p>
   <p>z</p>
+  <p>z</p>
 </template>
 
 <script>
