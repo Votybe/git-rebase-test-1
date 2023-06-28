@@ -7,6 +7,7 @@
   <p>z</p>
   <p>a</p>
   <p>b</p>
+  <p>c</p>
 </template>
 
 <script>
