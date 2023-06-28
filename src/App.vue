@@ -5,6 +5,7 @@
   <p>y</p>
   <p>z</p>
   <p>z</p>
+  <p>a</p>
 </template>
 
 <script>
