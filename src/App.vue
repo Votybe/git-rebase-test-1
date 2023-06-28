@@ -3,6 +3,7 @@
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <p>x</p>
   <p>y</p>
+  <p>z</p>
 </template>
 
 <script>
